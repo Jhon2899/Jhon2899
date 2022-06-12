@@ -8,4 +8,3 @@
 Jhon2899/Jhon2899 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Me llamo Jhony interesado por la tecnología, cuento con mi canal de youtube donde tengo contenido sobre programación.
